@@ -3,5 +3,5 @@
 
 def frequencies(items):
     frequencies = {}
-    # Your code goes hereddd
-    return frequencies
+    # Your code goes heredddjjdjjdjdjd
+    return frequenciesh
